@@ -1,2 +1,2 @@
 # Py-todos
-Uso de sentencia while
+Uso de sentencia WHILE
